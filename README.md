@@ -10,7 +10,7 @@
 Web AppからのリクエストをGAS Backendが受け取り、スプレッドシートへ反映します。
 リマインダー対象を1分ごとにチェックし、Discord Webhookでリマインドを送信します。
 
-
+```mermaid
 graph TD
     User((ユーザー)) -->|ブラウザ操作| WebUI[Web UI / GAS HTML Service]
 
