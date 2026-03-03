@@ -25,3 +25,10 @@ graph TD
 
     Engine -->|3. POST| Discord((Discord API / Webhook))
 ```
+
+
+
+手順
+AppScriptにcode.gs, index.htmlを追加する
+code.gsのsetupSystemを実行する
+ウェブアプリとしてデプロイする
