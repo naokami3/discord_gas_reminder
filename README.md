@@ -28,7 +28,7 @@ graph TD
 
 
 
-手順
-AppScriptにcode.gs, index.htmlを追加する
-code.gsのsetupSystemを実行する
-ウェブアプリとしてデプロイする
+手順  
+AppScriptにcode.gs, index.htmlを追加する  
+code.gsのsetupSystemを実行する  
+ウェブアプリとしてデプロイする  
