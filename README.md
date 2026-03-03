@@ -31,4 +31,5 @@ graph TD
 手順  
 AppScriptにcode.gs, index.htmlを追加する  
 code.gsのsetupSystemを実行する  
+トリガー設定で時間主導型とし、1分ごとにexecuteRemindersを実行するようにする
 ウェブアプリとしてデプロイする  
